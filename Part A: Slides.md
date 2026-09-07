@@ -1,7 +1,7 @@
 A linear extension slide is a guided extension system of multiple slides stacking and connecting (usually with rail guides) with the purpose of moving linearaly when rotational force is applyed.
 
-A good starting point when building a linear slide is figureing out what slides to use.
-Theres two really good types of slides to choose from:
+A good starting point when building a linear slide is figuring out what slides to use.
+There is two really good types of slides to choose from:
 
 A: Channel slides
 Links:
@@ -10,8 +10,8 @@ Advantages:
 - Its prefabricated, cant really mess it up
 - High Rigidity, Its much less prone to flexing at full extension
 Disadvantages:
-- Weight, The fact its heavy could affect other systems like the one thats resonsable for rotateing it.
-- Fixed Dimensions, theres only two avalible dimensions, so if you need something compact or small its not as avalible
+- Weight, The fact its heavy could affect other systems like the one that's reasonable for rotating it.
+- Fixed Dimensions, there is only two available dimensions, so if you need something compact or small its not as available
 - Higher cost
 
 B: Extrusion Slides
@@ -21,11 +21,11 @@ Advantages:
 - Light weight**
 - Customizable
 - Low cost
-- Lots of avalible rigging documentation (REV, GM0, OpenBuilds, Etc)
-- Spares (you can easly make spares incase of emergancy at comp)
+- Lots of available rigging documentation (REV, GM0, OpenBuilds, Etc)
+- Spares (you can easy make spares in case of emergency at comp)
 Disadvantages:
 - More prone to flexing under load
-- Needs more constant serviceing
+- Needs more constant servicing
 
-Takeing into consideration of the pros and cons of both of these styles, there isnt a difinitive winner but they do each have strong suits for cirtain situations.
+Taking into consideration of the pros and cons of both of these styles, there isn't a definitive winner but they do each have strong suits for certain situations.
 For example if I was building a linear slide to rotate and whip around at high speeds I would probably choose the extrusion slides. But for Situations where the position of the extension slide is static id go Channel.
