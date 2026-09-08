@@ -1,1 +1,2 @@
-
+Currently its my intention to expand this git hub with a part C and D, one for the process rigging; its different variety and the benefits & draw backs of each, and one documenting aspects of my own version of extrusion linear slides. That being said that's probably coming soon, I'd say ETA: End of October early November.
+If im wrong about any of my research let me know and this git hub will be updated. Thank you!
