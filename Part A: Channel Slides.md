@@ -2,9 +2,12 @@ A linear extension slide is a guided extension system of multiple slides stackin
 
 A good starting point when building a linear slide is figuring out what slides to use.
 This Page will focus on the Drawer/Channel.
+
 NOTE:
 When a advantage could also be seen as a disadvantage or isnt entirely true in some scenarios it will receive a * symbol. 
 When a disadvantage does have a work around thats very complex or niche it will receive a * symbol.
+
+NOTE 2: Channel slides have a tendency to be more expensive than Extrusion slides, as well as being more sturdy and precise, so you will usually see these attributes.
 
 A: Drawer slides
 
