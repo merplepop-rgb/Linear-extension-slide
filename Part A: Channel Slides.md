@@ -1,4 +1,4 @@
-A linear extension slide is a guided extension system of multiple slides stacking and connecting (usually with rail guides) with the purpose of moving linearaly when rotational force is applyed.
+A linear extension slide is a guided extension system of multiple slides stacking and connecting (usually with rail guides) with the purpose of moving linearaly when rotational force is applied.
 
 A good starting point when building a linear slide is figuring out what slides to use.
 This Page will focus on the Drawer/Channel.
@@ -36,7 +36,7 @@ Advantages:
 - Very flex resistant under load
 Disadvantages:
 - Not Cheap
-- Doesnt adapt easy to other formats (rev,gobuilda)
+- Doesn't adapt easy to other formats (rev,gobuilda)
 - Very long, not easy to work with
 - Uses steel ball bearings which will wear into aluminum
 - 3d Printed spacers required
@@ -66,6 +66,7 @@ Disadvantages:
 - No standard robotics interface
 - 3d Printed spacers may be required
 
-If you are going to do channel/drawer slides for a linear slide mechanism I cant say I would go with Self made drawer slides. Considering the advantages and disatvantages
-I would most likely find myself leaning twords goBilda's Viper slides for their extreme ease of use. Although that would probably dock points from the judges for not being
-self made.
+Generalization:
+Typically channel slides are smaller,and sturdier than extrusion based slides, but suffer from being much heaver and better suited for static application.
+If you are going to do channel/drawer slides for a linear slide mechanism I cant say I would go with Self made drawer slides. Considering the advantages and disadvantages
+I would most likely find myself leaning twords goBilda's Viper slides for their extreme ease of use. Although that would probably dock points from the judges for not being self made.
